@@ -163,7 +163,7 @@ If you use Qaml in academic research, please cite:
 
 ## Contact
 
-For technical inquiries and collaboration opportunities, please contact [your-email@organization.com]
+For technical inquiries and collaboration opportunities, please contact gracemann365@gmail.com
 
 ---
 
