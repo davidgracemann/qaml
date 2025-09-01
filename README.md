@@ -8,7 +8,7 @@ A zero-dependency implementation of transformer architecture using pure mathemat
 
 ## Overview
 
-FinTensor is a production-grade mathematical transformer implementation designed specifically for Anti-Money Laundering (AML) transaction pattern recognition. Built entirely from mathematical first principles using raw Python and NumPy, this implementation provides complete transparency and control over the attention mechanism without relying on external deep learning frameworks.
+Qaml v-finTensor is a production-grade mathematical transformer implementation designed specifically for Anti-Money Laundering (AML) transaction pattern recognition. Built entirely from mathematical first principles using raw Python and NumPy, this implementation provides complete transparency and control over the attention mechanism without relying on external deep learning frameworks.
 
 ## Key Features
 
